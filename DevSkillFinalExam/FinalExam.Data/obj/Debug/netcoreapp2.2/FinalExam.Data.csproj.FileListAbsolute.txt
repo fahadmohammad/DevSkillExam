@@ -1,0 +1,9 @@
+E:\New folder\DevSkillFinalExam\FinalExam.Data\bin\Debug\netcoreapp2.2\FinalExam.Data.deps.json
+E:\New folder\DevSkillFinalExam\FinalExam.Data\bin\Debug\netcoreapp2.2\FinalExam.Data.dll
+E:\New folder\DevSkillFinalExam\FinalExam.Data\obj\Debug\netcoreapp2.2\FinalExam.Data.csprojAssemblyReference.cache
+E:\New folder\DevSkillFinalExam\FinalExam.Data\obj\Debug\netcoreapp2.2\FinalExam.Data.csproj.CoreCompileInputs.cache
+E:\New folder\DevSkillFinalExam\FinalExam.Data\obj\Debug\netcoreapp2.2\FinalExam.Data.AssemblyInfoInputs.cache
+E:\New folder\DevSkillFinalExam\FinalExam.Data\obj\Debug\netcoreapp2.2\FinalExam.Data.AssemblyInfo.cs
+E:\New folder\DevSkillFinalExam\FinalExam.Data\bin\Debug\netcoreapp2.2\FinalExam.Data.pdb
+E:\New folder\DevSkillFinalExam\FinalExam.Data\obj\Debug\netcoreapp2.2\FinalExam.Data.dll
+E:\New folder\DevSkillFinalExam\FinalExam.Data\obj\Debug\netcoreapp2.2\FinalExam.Data.pdb
